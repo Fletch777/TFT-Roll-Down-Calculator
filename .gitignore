@@ -1,0 +1,10 @@
+# Python environment files
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+.pytest_cache/
+
+# OS files
+.DS_Store
