@@ -34,8 +34,6 @@ Performance
 
 It is worth noting that I included a benchmark script to compare the markov chain method to a more brute forced monte carlo method
 
-The results speak to the elegance of linear algebra:
-
 PS C:\Users\mflet\Desktop\tftcalcevnv> & C:\Users\mflet\AppData\Local\Microsoft\WindowsApps\python3.11.exe c:/Users/mflet/Desktop/tftcalcevnv/benchmark.py
 Markov Execution Time:      0.000112 seconds
 Monte Carlo Time (100k):    1.053998 seconds
