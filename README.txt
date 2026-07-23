@@ -3,7 +3,7 @@ This is my TFT calculator!
 I started this project because I've always loved the mathematical side of tft.  
 I was always curious what the exact probability was of me hitting x amount of units on a rolldown, or the chance of 3 starring a 5 cost on level 10.  
 
-This calculator uses a markov chain, a stochastic model.  At it's core, it is just doing matrix exponentiation and matrix-vector multiplication.  
+This calculator uses a markov chain, a stochastic process.  At it's core, it is just doing matrix exponentiation and matrix-vector multiplication.  
 
 How it works:
 
